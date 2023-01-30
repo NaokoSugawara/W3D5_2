@@ -6,6 +6,7 @@ class PolyTreeNode
         @value = value
         @parent = nil
         @children = []
+        
     end
 
     def parent=(new_parent)
